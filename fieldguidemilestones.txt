@@ -1,0 +1,17 @@
+Milestones
+----------
+1 - Build a softmax image classifier that
+    successfully identifies photos from
+    Oxford 17 and Iris datasets
+2 - Successfully train classifier on some
+    local plants
+3 - Build a convolutional neural network that
+    successfully identifies photos from Oxford
+    17 and Iris datasets
+4 - Program can accurately identify
+    photos of leaves of a few local species,
+    maybe only photos of particular
+    structures, eg leaves, stems, flowers
+5 - Program can accurately identify a few
+    local species, regardless of how photo
+    was taken
